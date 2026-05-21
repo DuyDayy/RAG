@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+checkpoints/
+data/vector_db/*.faiss
+data/vector_db/*.pkl
+data/cache/
+*.pt
+*.bin

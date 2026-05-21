@@ -1,0 +1,10 @@
+[
+  {
+    "image_path": "data/raw/images/sample_01.jpg",
+    "text": "Cặp ảnh–mô tả fine-tune CLIP."
+  },
+  {
+    "video_path": "data/raw/videos/sample_01.mp4",
+    "text": "Cặp video (frame đại diện)–transcript fine-tune CLIP."
+  }
+]

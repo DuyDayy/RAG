@@ -1,0 +1,10 @@
+torch>=2.0.0
+transformers>=4.37.0
+accelerate>=0.26.0
+sentence-transformers>=2.3.0
+faiss-cpu>=1.7.4
+Pillow>=10.0.0
+numpy>=1.24.0
+einops
+transformers_stream_generator
+opencv-python-headless>=4.8.0

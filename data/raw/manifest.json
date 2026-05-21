@@ -1,0 +1,21 @@
+[
+  {
+    "id": "doc_001",
+    "image_path": "data/raw/images/sample_01.jpg",
+    "text": "Ảnh minh họa RAG đa phương tiện.",
+    "media_type": "image"
+  },
+  {
+    "id": "doc_002",
+    "video_path": "data/raw/videos/sample_01.mp4",
+    "text": "Transcript hoặc mô tả nội dung video (ví dụ từ phụ đề / Whisper).",
+    "media_type": "video"
+  },
+  {
+    "id": "doc_003",
+    "image_path": "data/raw/images/sample_01.jpg",
+    "video_path": "data/raw/videos/sample_01.mp4",
+    "text": "Document đầy đủ: ảnh thumbnail + video + văn bản.",
+    "media_type": "multimodal"
+  }
+]
